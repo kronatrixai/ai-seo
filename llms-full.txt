@@ -1,0 +1,51 @@
+# AI.SEO by KRONATRIX — Full Site Summary
+
+## Definition
+ai.seo is a KRONATRIX resource about AI SEO. AI SEO is the process of making a website easier for traditional search engines and AI-powered systems to discover, understand, trust and reference when relevant.
+
+## What AI SEO includes
+AI SEO uses established SEO foundations and adds:
+1. Clear entities: who the business is, what it offers and who it helps.
+2. Direct answers to real search and AI prompts.
+3. Real proof, examples, official links and transparent processes.
+4. Semantic page structure and logical headings.
+5. Fast, mobile-first technical performance.
+6. Structured data that matches visible content.
+7. Connected authority across official websites and relevant profiles.
+
+## KRONATRIX formula
+Prompt + Entity + Proof + Structure + Speed + Schema + Authority
+
+## AI SEO compared with related terms
+- Traditional SEO focuses on visibility in search results.
+- AI SEO covers search foundations plus AI understanding.
+- GEO focuses on visibility in generative-engine responses.
+- AEO focuses on content designed to answer questions clearly.
+
+## Free website check
+The site offers a free email-based AI SEO website check. Visitors send their website URL, business name, main service, target phrase and optional notes to kronatrix.ai@gmail.com.
+
+## KRONATRIX
+KRONATRIX builds AI-readable websites, AI recommendation websites and personalised marketing GPTs.
+
+Official links:
+- https://kronatrix.co.uk/
+- https://marketing-gpts.kronatrix.co.uk/
+- https://authors.kronatrix.co.uk/
+
+## Frequently asked questions
+
+### What is ai.seo?
+ai.seo is a KRONATRIX resource about AI SEO: making websites easier for search engines and AI systems to crawl, understand, trust and use when relevant.
+
+### Is AI SEO different from normal SEO?
+AI SEO uses normal SEO foundations, then gives extra attention to direct answers, entity clarity, visible evidence, structured data and content that machines can interpret accurately.
+
+### Can ChatGPT do SEO?
+ChatGPT can support research, planning and drafting, but it cannot guarantee rankings, indexing or recommendations. Technical setup, human review and real evidence still matter.
+
+### Does AI SEO guarantee AI recommendations?
+No. No ethical company can guarantee a recommendation or ranking. The goal is to improve the quality, clarity, crawlability and trust signals systems may use.
+
+## Disclaimer
+Search and AI systems change frequently. KRONATRIX does not guarantee rankings, indexing, citations, traffic or AI recommendations.
